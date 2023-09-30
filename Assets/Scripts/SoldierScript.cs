@@ -14,6 +14,8 @@ public class SoldierScript : MonoBehaviour
     private float yrot = 0;
     private float speed = 0.02f;
 
+//Hello World
+
     void Start()
     {
         anim = this.GetComponent<Animator>();
